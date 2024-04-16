@@ -201,5 +201,3 @@ check_regex_output.txt
 
 # Autowiki
 /tools/autowiki/node_modules
-code/modules/buildmode/buildmode.dm
-config/admins.txt
