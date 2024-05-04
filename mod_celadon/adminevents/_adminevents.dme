@@ -1,0 +1,15 @@
+#ifndef MODPACK_CELADON_adminevens
+#define MODPACK_CELADON_adminevens
+
+#endif
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+// BEGIN_INCLUDE
+#include "_adminevents.dm"
+#include "code\buckshot_roulette.dm"
+// END_INCLUDE

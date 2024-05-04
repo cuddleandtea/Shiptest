@@ -35,6 +35,9 @@
 #include "fixes/_fixes.dme"
 #include "ipc_surgery/_ipc_surgery.dme"
 
+// --- EVENTS --- //
+#include "adminevents\_adminevents.dme"
+
 // --- DONATORS --- //
 
 
